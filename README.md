@@ -3,4 +3,4 @@ Pixel Art Game Concept (Work in progress)  Top-Down RPG where the protagonist is
 Here is a start of what has been done
 
 
-![GIF of Ghost](https://github.com/Javques/yaktocat.png)
+![Idle Ghost](https://github.com/Javques/StLamb.exe/blob/master/floatstanding.gif)
