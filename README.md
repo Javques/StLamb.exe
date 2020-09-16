@@ -14,9 +14,9 @@ Here is a start of what has been done
 #### A Few Inspirations Found on the Internet
 
 
-<img src="https://github.com/Javques/StLamb.exe/blob/master/Cover.png" width="100" height="100"> <img src="https://github.com/Javques/StLamb.exe/blob/master/e9526864caf93a3595f64d65a2dcd7a9212c5f9e.webp" width="100" height="100">
-<img src="https://github.com/Javques/StLamb.exe/blob/master/insp1.jpg" width="100" height="100"> <img src="https://github.com/Javques/StLamb.exe/blob/master/insp2.jpg" width="100" height="100">
-<img src="https://github.com/Javques/StLamb.exe/blob/master/insp3.png" width="100" height="100"> <img src="https://github.com/Javques/StLamb.exe/blob/master/insp6.png" width="100" height="100"> <img src="https://github.com/Javques/StLamb.exe/blob/master/insp4.jpg" width="100" height="100">
+<img src="https://github.com/Javques/StLamb.exe/blob/master/InspPics/Cover.png" width="100" height="100"> <img src="https://github.com/Javques/StLamb.exe/blob/master/InspPics/e9526864caf93a3595f64d65a2dcd7a9212c5f9e.webp" width="100" height="100">
+<img src="https://github.com/Javques/StLamb.exe/blob/master/InspPics/insp1.jpg" width="100" height="100"> <img src="https://github.com/Javques/StLamb.exe/blob/master/InspPics/insp2.jpg" width="100" height="100">
+<img src="https://github.com/Javques/StLamb.exe/blob/master/InspPics/insp3.png" width="100" height="100"> <img src="https://github.com/Javques/StLamb.exe/blob/master/InspPics/insp6.png" width="100" height="100"> <img src="https://github.com/Javques/StLamb.exe/blob/master/InspPics/insp4.jpg" width="100" height="100">
 
 
 #### City Tile Levels
