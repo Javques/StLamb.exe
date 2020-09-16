@@ -9,6 +9,12 @@ Here is a start of what has been done
 #### Floating Around
 <img src="https://github.com/Javques/StLamb.exe/blob/master/GIF/walkt.gif" width="50" height = "50">
 
+#### Canevas 
+To be uploaded in .png
+
+### **Other Sprites**
+To be uploaded in .png
+
 ### **Tile Levels**
 
 #### A Few Inspirations Found on the Internet
