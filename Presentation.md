@@ -4,10 +4,10 @@ Here is a start of what has been done
 
 ### **Ghost**
 #### Idle Floating 
-![Idle Ghost](https://github.com/Javques/StLamb.exe/blob/master/floatstanding.gif)
+<img src="https://github.com/Javques/StLamb.exe/blob/master/floatstanding.gif" width="50" height = "50">
 
 #### Floating Around
-![Floating Ghost](https://github.com/Javques/StLamb.exe/blob/master/walkt.gif)
+<img src="https://github.com/Javques/StLamb.exe/blob/master/walkt.gif" width="50" height = "50">
 
 ### **Tile Levels**
 
